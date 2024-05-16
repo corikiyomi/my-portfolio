@@ -2,13 +2,9 @@ import './App.css';
 
 function App() {
   return (
-    <div>
-      
-
-
+    <div className="App">
+      <h1>My portfolio project</h1>
     </div>
-
-
 
   );
 }
